@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PtCardReader64", "PtCardReader64\PtCardReader64.csproj", "{B8DEB731-494D-4B82-9D90-E658207D525E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PtCardReader32", "PtCardReader32\PtCardReader32.csproj", "{3C4DA6FE-E839-4D5C-BF01-DA9C672A10DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DEB731-494D-4B82-9D90-E658207D525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DEB731-494D-4B82-9D90-E658207D525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DEB731-494D-4B82-9D90-E658207D525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DEB731-494D-4B82-9D90-E658207D525E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4DA6FE-E839-4D5C-BF01-DA9C672A10DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4DA6FE-E839-4D5C-BF01-DA9C672A10DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4DA6FE-E839-4D5C-BF01-DA9C672A10DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4DA6FE-E839-4D5C-BF01-DA9C672A10DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CF2FA8-3300-4407-B984-2103CA75B37E}
+	EndGlobalSection
+EndGlobal
